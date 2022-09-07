@@ -1,0 +1,349 @@
+{
+"quiz_list":[
+  {
+	"id": 31,
+	"category": "Sport",
+	"question": "What international team play in Wembley?",
+	"answerList": [
+		{
+		"ans": "Denmark",
+		"status": 0
+		},
+		{
+		"ans": "England",
+		"status": 1
+		},
+		{
+		"ans": "Scotland",
+		"status": 0
+		},
+		{
+		"ans": "Iceland",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 32,
+	"category": "Sport",
+	"question": "Which of these teams isn't from London?",
+	"answerList": [
+		{
+		"ans": "Chelsea",
+		"status": 0
+		},
+		{
+		"ans": "Wolves",
+		"status": 1
+		},
+		{
+		"ans": "Arsenal",
+		"status": 0
+		},
+		{
+		"ans": "West Ham",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 33,
+	"category": "Sport",
+	"question": "What does VAR stand for?",
+	"answerList": [
+		{
+		"ans": "Very Awful Referee",
+		"status": 0
+		},
+		{
+		"ans": "Video Assisted Referee",
+		"status": 1
+		},
+		{
+		"ans": "Virtual Assistant Referee",
+		"status": 0
+		},
+		{
+		"ans": "Vincent and Rupert",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 34,
+	"category": "Sport",
+	"question": "How high is a full-size goal post?",
+	"answerList": [
+		{
+		"ans": "5 feet",
+		"status": 0
+		},
+		{
+		"ans": "6 feet",
+		"status": 0
+		},
+		{
+		"ans": "7 feet",
+		"status": 0
+		},
+		{
+		"ans": "8 feet",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 35,
+	"category": "Sport",
+	"question": "Which team play at Anfield?",
+	"answerList": [
+		{
+		"ans": "Manchester City",
+		"status": 0
+		},
+		{
+		"ans": "Aston Villa",
+		"status": 0
+		},
+		{
+		"ans": "Liverpool",
+		"status": 1
+		},
+		{
+		"ans": "Everton",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 36,
+	"category": "Sport",
+	"question": "Which English Premier side are known as The Red Devils?",
+	"answerList": [
+		{
+		"ans": "Arsenal",
+		"status": 0
+		},
+		{
+		"ans": "Newcastle United",
+		"status": 0
+		},
+		{
+		"ans": "Manchester United",
+		"status": 1
+		},
+		{
+		"ans": "Chelsea",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 37,
+	"category": "Sport",
+	"question": "How many lions are on the England badge?",
+	"answerList": [
+		{
+		"ans": "1",
+		"status": 1
+		},
+		{
+		"ans": "2",
+		"status": 0
+		},
+		{
+		"ans": "3",
+		"status": 1
+		},
+		{
+		"ans": "0",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 38,
+	"category": "Sport",
+	"question": "Which international team does Paul Pogba play for?",
+	"answerList": [
+		{
+		"ans": "England",
+		"status": 0
+		},
+		{
+		"ans": "Brazil",
+		"status": 0
+		},
+		{
+		"ans": "France",
+		"status": 1
+		},
+		{
+		"ans": "Wales",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 39,
+	"category": "Sport",
+	"question": "England have won the World Cup once. But in which year did they lift the trophy?",
+	"answerList": [
+		{
+		"ans": "1966",
+		"status": 1
+		},
+		{
+		"ans": "2000",
+		"status": 0
+		},
+		{
+		"ans": "1994",
+		"status": 0
+		},
+		{
+		"ans": "1982",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 40,
+	"category": "Sport",
+	"question": "How long is a game of professional football?",
+	"answerList": [
+		{
+		"ans": "60 minutes",
+		"status": 0
+		},
+		{
+		"ans": "75 minutes",
+		"status": 0
+		},
+		{
+		"ans": "45 minutes",
+		"status": 0
+		},
+		{
+		"ans": "90 minutes",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 41,
+	"category": "Sport",
+	"question": "What happens if a referee shows a player a red card?",
+	"answerList": [
+		{
+		"ans": "They get sent off the pitch",
+		"status": 1
+		},
+		{
+		"ans": "They have to do 10 laps of the ground",
+		"status": 0
+		},
+		{
+		"ans": "The other team automatically scores a goal",
+		"status": 0
+		},
+		{
+		"ans": "They get detention after the game",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 42,
+	"category": "Sport",
+	"question": "Which Premier League team are famous for wearing black and white stripes?",
+	"answerList": [
+		{
+		"ans": "Tottenham Hotspur",
+		"status": 0
+		},
+		{
+		"ans": "Crystal Palace",
+		"status": 0
+		},
+		{
+		"ans": "Newcastle United",
+		"status": 1
+		},
+		{
+		"ans": "Everton",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 43,
+	"category": "Sport",
+	"question": "What kind of animal is featured on Leicester City's badge?",
+	"answerList": [
+		{
+		"ans": "A cat",
+		"status": 0
+		},
+		{
+		"ans": "A dog",
+		"status": 0
+		},
+		{
+		"ans": "A fox",
+		"status": 1
+		},
+		{
+		"ans": "A wolf",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 44,
+	"category": "Sport",
+	"question": "How many times have Brazil won the World Cup?",
+	"answerList": [
+		{
+		"ans": "0",
+		"status": 0
+		},
+		{
+		"ans": "2",
+		"status": 0
+		},
+		{
+		"ans": "4",
+		"status": 0
+		},
+		{
+		"ans": "5",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 45,
+	"category": "Sport",
+	"question": "Which team does Harry Kane play for?",
+	"answerList": [
+		{
+		"ans": "Arsenal",
+		"status": 0
+		},
+		{
+		"ans": "Derby County",
+		"status": 0
+		},
+		{
+		"ans": "Tottenham Hotspur",
+		"status": 1
+		},
+		{
+		"ans": "Birmingham City",
+		"status": 0
+		}
+		]
+	}
+]
+}
